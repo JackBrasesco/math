@@ -11,9 +11,7 @@ var yo = {
 test()
 
 var nestedkey2 = {
-  
-  
-  
+  nestedKey5: 
 }
 var lol = {
   nestedkey1: nestedkey2,
