@@ -1,7 +1,8 @@
 function test() {
   addListItem("listKey1", word)
   var word = {
-    
+    listItemKey1: "hola!",
+    listItemk
   }
   
 }
