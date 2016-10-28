@@ -1,3 +1,5 @@
 function test() {
-  storeValue(
+  addListItem("k)
 }
+
+test()
