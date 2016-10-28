@@ -1,5 +1,5 @@
 function test() {
-  storeValue("key1", yo)
+  storeValue("key2", lol)
   
 }
 
@@ -8,10 +8,9 @@ var yo = {
   nestedKey1: "hi!",
   nestedKey2: "bye!",
 }
-test()
 
 var that = {
-  reallyNestedKey: "
+  reallyNestedKey: "I'm deeply nested",
 }
 var hi = {
   notAsNestedKey: "I'm not as nested!",
@@ -28,3 +27,4 @@ var lol = {
   nestedkey1: nestedkey2,
 }
 
+test()
