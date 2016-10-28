@@ -9,3 +9,7 @@ var yo = {
   nestedKey2: "bye!",
 }
 test()
+
+var lol = {
+  nestedkey1: 
+}
