@@ -9,11 +9,15 @@ var yo = {
   nestedKey2: "bye!",
 }
 test()
+
+var that = {
+  reallyNestedKey: "
+}
 var hi = {
-  notAsNestedKey: "I'm not as nested!"
+  notAsNestedKey: "I'm not as nested!",
 }
 var hello = {
-  nested
+  nestedkey4: that,
 }
 var nestedkey2 = {
   nestedKey5: hi,
