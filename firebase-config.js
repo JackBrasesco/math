@@ -1,6 +1,6 @@
 var firebaseConfig = {
   apiKey: "NOT A REAL KEY",
-  authDomain: "not-a-real-db.firebaseapp.com",
+  authDomain: "fir-807a9.firebaseapp.com",
   databaseURL: "https://fir-807a9.firebaseio.com/"
 
 };
