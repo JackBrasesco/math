@@ -10,7 +10,7 @@ var yo = {
 }
 test()
 var hi = {
-  
+  notAsNestedKey: "I'm
 }
 var nestedkey2 = {
   nestedKey5: hi,
