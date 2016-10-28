@@ -6,4 +6,7 @@ function test() {
 test()
 test()
 
-var yo 
+var yo = {
+  nestedKey1: "hi!",
+  nestedKey2
+}
