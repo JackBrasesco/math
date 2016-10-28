@@ -1,12 +1,11 @@
 function test() {
-  addListItem("key1", "hithere")
+  storeValue("key1", yo)
   
 }
 
-test()
-test()
 
 var yo = {
   nestedKey1: "hi!",
-  nestedKey2
+  nestedKey2: "bye!",
 }
+test()
