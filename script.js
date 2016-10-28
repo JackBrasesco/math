@@ -1,5 +1,8 @@
 function test() {
-  storeValue("key2", lol)
+  addListItem("listKey1", word)
+  var word = {
+    
+  }
   
 }
 
