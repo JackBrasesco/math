@@ -1,5 +1,6 @@
 function test() {
-  addListItem("k)
+  addListItem("key1", keystuff)
+  
 }
 
 test()
