@@ -10,6 +10,12 @@ var yo = {
 }
 test()
 
-var lol = {
-  nestedkey1: 
+var nestedkey2 = {
+  
+  
+  
 }
+var lol = {
+  nestedkey1: nestedkey2,
+}
+
